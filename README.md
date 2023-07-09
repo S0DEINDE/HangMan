@@ -1,3 +1,3 @@
 # HangerMan
 
-Enjoy! :p
+Enjoy the terminal game! :p
